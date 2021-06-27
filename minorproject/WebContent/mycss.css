@@ -1,0 +1,40 @@
+@CHARSET "ISO-8859-1";
+body {
+    background-color: #FFFFE0;
+    font-size; 18px;
+}
+#tet{
+	background-color: #B0C4DE;
+	font-size:20px;
+	border-radius:5px;
+	
+} 
+#adminid{
+	text-align:center;
+	top-margin: 20px;  
+    margin-bottom: 30px;  
+    margin-right: 50px;  
+    margin-left: 50px;  
+	font-size: 60px;
+	background-color: lightblue;
+	padding: 40px;
+	border-radius:5px;
+	
+}
+	#ax{
+	text-align:center;
+	background-color:#87CEEB;
+	 margin-right: 450px;  
+    margin-left: 350px;
+	padding:50px;
+	border-radius:5px;
+	}
+	#in{
+	font-size: 30px;
+	background-color:#008B8B;
+	 margin-right: -10px;  
+    margin-left: -15px;
+	padding:-10px;
+	border-radius:5px;
+	
+	}
